@@ -181,6 +181,3 @@ public class AddPoint2 extends JPanel {
       
    }
 }
-
-
-//I'm doing testing
